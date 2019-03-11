@@ -1,0 +1,13 @@
+version: "3.5"
+
+services:
+  gocommerce:
+    image: mraerino/golang-dev
+    working_dir: $GO_WORKDIR
+    volumes:
+      - $PWD:$GO_WORKDIR
+    command: realize start --no-config --run --legacy ./app
+    environment:
+    # env variables
+    ports:
+    # port mappings
