@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="866567bb-3c55-4b74-b476-651b7a65d44e" name="Default Changelist" comment="" />
+    <list default="true" id="866567bb-3c55-4b74-b476-651b7a65d44e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/contracts/HashDice.sol" beforeDir="false" afterPath="$PROJECT_DIR$/contracts/HashDice.sol" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +74,11 @@
       </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/contracts/HashDice.sol">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="20" selection-start-column="20" selection-end-column="20" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -113,6 +119,7 @@
         <option value="$PROJECT_DIR$/Dockerfile" />
         <option value="$PROJECT_DIR$/.env" />
         <option value="$PROJECT_DIR$/main.yml" />
+        <option value="$PROJECT_DIR$/contracts/HashDice.sol" />
       </list>
     </option>
   </component>
@@ -192,6 +199,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="33" y="23" width="1247" height="777" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18589212" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -286,7 +294,11 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/contracts/HashDice.sol">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="20" selection-start-column="20" selection-end-column="20" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
